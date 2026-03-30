@@ -38,7 +38,7 @@ O retorno contém as seguintes informações:
 ```json
 {
   "titulo": "Breaking Bad",
-  "frase": "I am the one who knocks!",
+  "frase": "Eu não estou em perigo, Skyler. Eu sou o perigo.",
   "personagem": "Walter White",
   "poster": "https://..."
 }
